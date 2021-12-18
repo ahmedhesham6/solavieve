@@ -9,7 +9,7 @@ Develop the feedback page following the design using React.
 Clone the project
 
 ```bash
-  git clone https:
+  git clone https://github.com/ahmedhesham6/solavieve.git
 ```
 
 Go to the project directory

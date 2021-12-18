@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 7.5rem;
+  justify-content: space-between;
+  padding: 0 2rem;
+  border-bottom: 1px solid #DEDEDE;
+}
+
+.header__logo {
+  width: 19.125rem;
+  height: 5rem;
+  left: 2rem;
+  top: 1.125rem;
+}

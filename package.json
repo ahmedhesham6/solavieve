@@ -1,0 +1,11 @@
+{
+  "name": "solavieve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start-fe": "cd ./frontend && npm run dev",
+    "start-be": "cd ./backend && npm start",
+    "start":"npm run start-fe & npm run start-be &"
+  }
+}

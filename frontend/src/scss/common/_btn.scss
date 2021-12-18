@@ -1,0 +1,18 @@
+@import "../variables";
+
+.btn {
+  width: max-content;
+  height: max-content;
+  padding: 0rem 1.5rem;
+  background: $primary-color;
+  border-radius: 5rem;
+  border: 0rem;
+}
+
+.btn__text {
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}

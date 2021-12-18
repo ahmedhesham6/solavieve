@@ -1,0 +1,16 @@
+.block-feedback {
+  margin: 3rem;
+}
+
+.block-feedback__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.block-feedback__title {
+    font-weight: bold;
+    font-size: 3rem;
+    color: #273040;
+}

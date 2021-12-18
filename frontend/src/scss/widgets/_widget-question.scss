@@ -1,0 +1,30 @@
+.widget-question {
+  text-align: center;
+  margin-top: 1.75rem;
+}
+
+.widget-question__title {
+  font-style: normal;
+  font-weight: 500;
+  margin: 0rem;
+}
+
+.widget-question__input {
+  width: 56rem;
+  height: 12rem;
+  margin: 2rem;
+  padding: 1rem;
+
+  font-family: Montserrat;
+  font-size: 1.125rem;
+  font-style: normal;
+  text-align: left;
+
+  resize: none;
+  outline: none;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 0.75rem rgba(0, 0, 0, 0.25);
+  border: 0rem;
+  border-radius: 0.563rem;
+}
